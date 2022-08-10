@@ -1,0 +1,85 @@
+<!--Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+    <title>Online Hospital appointment</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8" />
+    <meta name="keywords" content="Poly Clinic Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template,
+	SmartPhone Compatible web template, free WebDesigns for Nokia, Samsung, LG, Sony Ericsson, Motorola web design" />
+    <script>
+        addEventListener("load", function () {
+            setTimeout(hideURLbar, 0);
+        }, false);
+
+        function hideURLbar() {
+            window.scrollTo(0, 1);
+        }
+    </script>
+    <!-- Custom Theme files -->
+    <link href="css/bootstrap.css" type="text/css" rel="stylesheet" media="all">
+    <link href="css/style.css" type="text/css" rel="stylesheet" media="all">
+    <!-- font-awesome icons -->
+    <link href="css/fontawesome-all.min.css" rel="stylesheet">
+    <!-- //Custom Theme files -->
+    <!-- online-fonts -->
+    <link href="//fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i" rel="stylesheet">
+</head>
+
+<body>
+    <!-- banner -->
+    <div class="inner-banner" id="home">
+        <!-- header -->
+        <header>
+            <nav class="navbar navbar-expand-lg navbar-light bg-gradient-secondary pt-3">
+
+                <h1>
+                    <a class="navbar-brand text-white">
+                         Online Hospital
+                        <span>Appointment</span>
+                    </a>
+                </h1>
+                <button class="navbar-toggler ml-md-auto" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                      <ul class="navbar-nav ml-lg-auto text-center">
+                        <li class="nav-item  mr-3 active">
+                            <a class="nav-link text-white active" href="admin_home.php">Home
+                                <span class="sr-only">(current)</span>
+                            </a>
+                        </li>
+                        <li class="nav-item  mr-3">
+                            <a class="nav-link text-white text-capitalize" href="admin_add_hospital.php">Add Hospital</a>
+                        </li>
+                        <li class="nav-item  mr-3 ">
+                            <a class="nav-link text-white text-capitalize" href="admin_view_hospital.php">View Hospital</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link  text-white text-capitalize" href="admin_view_doctors.php">View Doctors</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link  text-white text-capitalize" href="admin_view_feedback.php">View Feedback</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link  text-white text-capitalize" href="login.php">Logout</a>
+                        </li>
+
+                    </ul>
+                </div>
+
+            </nav>
+        </header>
+
+    </div>
+
+	<div class="clear"></div>
